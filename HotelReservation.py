@@ -1,5 +1,3 @@
-# Shaelyn Britney
-# CIS261
 # HotelReservation
 
 from datetime import datetime
